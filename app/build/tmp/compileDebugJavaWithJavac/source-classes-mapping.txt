@@ -1,0 +1,20 @@
+com/pspdfkit/annotatedviewer/MyActivity.java
+ com.pspdfkit.annotatedviewer.MyActivity
+ com.pspdfkit.annotatedviewer.MyActivity$1
+ com.pspdfkit.annotatedviewer.MyActivity$1$1
+ com.pspdfkit.annotatedviewer.MyActivity$1$2
+com/pspdfkit/annotatedviewer/PDFModel.java
+ com.pspdfkit.annotatedviewer.PDFModel
+com/pspdfkit/annotatedviewer/BuildConfig.java
+ com.pspdfkit.annotatedviewer.BuildConfig
+com/pspdfkit/annotatedviewer/ExtractAssetTask.java
+ com.pspdfkit.annotatedviewer.ExtractAssetTask
+ com.pspdfkit.annotatedviewer.ExtractAssetTask$1
+com/pspdfkit/annotatedviewer/MainActivity.java
+ com.pspdfkit.annotatedviewer.MainActivity
+ com.pspdfkit.annotatedviewer.MainActivity$1
+com/pspdfkit/annotatedviewer/PDFListAdapter.java
+ com.pspdfkit.annotatedviewer.PDFListAdapter
+ com.pspdfkit.annotatedviewer.PDFListAdapter$1
+ com.pspdfkit.annotatedviewer.PDFListAdapter$ClickListener
+ com.pspdfkit.annotatedviewer.PDFListAdapter$ViewHolder

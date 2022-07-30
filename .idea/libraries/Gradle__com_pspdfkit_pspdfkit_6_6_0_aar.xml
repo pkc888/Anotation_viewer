@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pspdfkit:pspdfkit:6.6.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ce5c6475855b7d84eff4c8a97c7d125/pspdfkit-6.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ce5c6475855b7d84eff4c8a97c7d125/pspdfkit-6.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ce5c6475855b7d84eff4c8a97c7d125/pspdfkit-6.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ce5c6475855b7d84eff4c8a97c7d125/pspdfkit-6.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pspdfkit/pspdfkit/6.6.0/95c661b7b92724463d4c0cd37fd356969cc433d/pspdfkit-6.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

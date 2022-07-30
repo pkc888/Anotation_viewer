@@ -1,0 +1,1 @@
+Annotated viewer is an android application to open and read pdf file with the one touch info functionality to get meaning of and words and sentence from the pdf.
