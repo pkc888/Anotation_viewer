@@ -6,6 +6,8 @@ In this we can get meaning of any word or sentence directly on the same page.
 Here we won't be directed to any exetrnal browser for searching the meaning of complicated words which is irritating and time consuming.
 we have used Wordapi for getting the meaning,synonyms and other information related to selected word.
 
+Working: 
+
 After opening the annotated viewer application on the main screen at the bottom right corner a fab button will be visible to search the device for pdf.
 
 ![1](https://user-images.githubusercontent.com/44221142/210737556-96bfad6b-f97b-4663-8a62-98a074cda91e.png)
